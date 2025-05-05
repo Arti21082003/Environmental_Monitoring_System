@@ -46,8 +46,8 @@ Install the libraries via the Arduino IDE Library Manager:
    - 'DFRobot DHT11' by DFRobot.
 
 Wiring
-| Component             | Pin Connection                     |
-|-----------------------|------------------------------------|
+| Component             | Pin Connection                    |
+|-----------------------|-----------------------------------|
 | DHT11 Data            | Pin 7 on Arduino                  |
 | CO2 Sensor            | A2 on Arduino                     |
 | Soil Moisture Sensor  | A0 on Arduino                     |
